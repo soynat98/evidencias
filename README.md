@@ -1,8 +1,4 @@
-## Evidencias 📖
-Evidencias de las exposiciones 
+## Link repositorio 📋
 
-* Github
-* Katalon 
-* Postman
-* Docker
-* CircleCI
+
+https://github.com/soynat98/practica.git 
