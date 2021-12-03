@@ -6,4 +6,3 @@ Evidencias de las exposiciones
 * Postman
 * Docker
 * CircleCI
-
